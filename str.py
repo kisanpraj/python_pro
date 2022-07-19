@@ -1,0 +1,7 @@
+User=input("")
+User=User.capitalize()
+User=User.casefold()
+User=User.center(50,"*")
+User=User.count("l",1,5)
+Use=User.endswith("o")
+print(Use)
